@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Monthoers';
+    src: url('monthoers-webfont.eot');
+    src: url('monthoers-webfont.eot?#iefix') format('embedded-opentype'),
+         url('monthoers-webfont.woff2') format('woff2'),
+         url('monthoers-webfont.woff') format('woff'),
+         url('monthoers-webfont.ttf') format('truetype'),
+         url('monthoers-webfont.svg#swistblnk_monthoersregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Bradley Hand';
+    src: url('BradleyHandITCTT-Bold.woff2') format('woff2'),
+        url('BradleyHandITCTT-Bold.woff') format('woff'),
+        url('BradleyHandITCTT-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Quikhand';
+    src: url('quikhand-webfont.eot');
+    src: url('quikhand-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quikhand-webfont.woff2') format('woff2'),
+         url('quikhand-webfont.woff') format('woff'),
+         url('quikhand-webfont.ttf') format('truetype'),
+         url('quikhand-webfont.svg#quikhandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('MinionPro-Regular.woff2') format('woff2'),
+        url('MinionPro-Regular.woff') format('woff'),
+        url('MinionPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham Light';
+    src: url('GothamLight.woff2') format('woff2'),
+        url('GothamLight.woff') format('woff'),
+        url('GothamLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham Black';
+    src: url('Gotham-Black.woff2') format('woff2'),
+        url('Gotham-Black.woff') format('woff'),
+        url('Gotham-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Book';
+    src: url('Gotham-Book.woff2') format('woff2'),
+        url('Gotham-Book.woff') format('woff'),
+        url('Gotham-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham Medium';
+    src: url('gotham-medium-webfont.woff2') format('woff2'),
+         url('gotham-medium-webfont.woff') format('woff'),
+         url('Gotham-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Gotham Bold';
+    src: url('Gotham-Bold.woff2') format('woff2'),
+        url('Gotham-Bold.woff') format('woff'),
+        url('Gotham-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Quikhand';
+    src: url('quikhand-webfont.woff2') format('woff2'),
+         url('quikhand-webfont.woff') format('woff'),
+         url('Quikhand.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

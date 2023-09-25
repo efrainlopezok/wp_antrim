@@ -1,0 +1,3 @@
+[24-Jul-2018 01:02:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/beaverlake/public_html/antrimstreamside.com/wp-content/themes/salient/single.php on line 1
+[24-Jul-2018 01:02:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/beaverlake/public_html/antrimstreamside.com/wp-content/themes/salient/single.php on line 1
+[09-Jul-2019 01:21:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/beaverlake/public_html/antrimstreamside.com/wp-content/themes/salient/index.php on line 1
